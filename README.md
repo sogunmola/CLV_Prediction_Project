@@ -1,4 +1,4 @@
-# Final_Project
+# Customer Lifetime Value Prediction for e-commerce company OLIST
 
 Marketing Model to predict the customer lifetime value for Olist, a Brazilian E-Commerce Company.
 
